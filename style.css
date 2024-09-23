@@ -28,7 +28,7 @@ img{
     display: flex;
     align-items: center;
     min-height: 80vh;
-    padding: 0px 0;
+    /* padding: 30px 30px; */
 }
 
 .menu{
@@ -50,6 +50,10 @@ img{
     display: flex;
     justify-content: flex-end; /* Alinea los elementos hacia la derecha */
     /* margin-right: 35px; Margen derecho para separar del borde */
+}
+
+.header-content {
+    margin-top: 100px;
 }
 
 
